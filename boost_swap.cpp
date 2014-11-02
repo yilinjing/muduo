@@ -11,4 +11,5 @@ int main()
     cout << info << endl;
     boost::swap(buf, info);
     cout << buf << endl;
+    cout << info << endl;
 }
